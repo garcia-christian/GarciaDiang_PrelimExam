@@ -1,0 +1,28 @@
+{
+  "name": "prelim",
+  "version": "1.0.0",
+  "description": "Prelim EXAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garcia-christian/GarciaDiang_PrelimExam.git"
+  },
+  "keywords": [
+    "Exam",
+    "Prelim",
+    "Garcia",
+    "Diang"
+  ],
+  "author": "Garcia, Diang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garcia-christian/GarciaDiang_PrelimExam/issues"
+  },
+  "homepage": "https://github.com/garcia-christian/GarciaDiang_PrelimExam#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
